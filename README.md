@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section-mWBxGVncr1](https://www.frontendmentor.io/solutions/four-card-feature-section-mWBxGVncr1)
+- Live Site URL: [https://josh76543210-fm-four-card-feature.netlify.app/](https://josh76543210-fm-four-card-feature.netlify.app/)
 
 ## My process
 
